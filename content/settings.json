@@ -1,0 +1,10 @@
+{
+  "title": "YouLib Docs",
+  "url": "https://docs.youlib.co.jp",
+  "logo": {
+    "light": "/icon.png",
+    "dark": "/icon.png"
+  },
+  "github": "youlib-inc/docs-template",
+  "twitter": "@hyodoblog"
+}
