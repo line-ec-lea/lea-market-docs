@@ -9,7 +9,7 @@ features:
   - お客様対応はすべてLINEのチャット画面で可能
 ---
 
-<img src="/ogp.png" alt="" />
+<img src="/preview.png" alt="" />
 
 ## 特徴
 
