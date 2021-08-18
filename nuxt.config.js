@@ -16,6 +16,9 @@ export default theme({
       file: 'ja-JP.js',
       name: '日本語'
     }],
-    defaultLocale: 'ja'
+    defaultLocale: 'ja',
+    vueI18n: {
+      fallbackLocale: 'ja'
+    },
   }
 })
