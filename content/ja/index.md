@@ -1,18 +1,18 @@
 ---
-title: Getting started
-description: 'Empower your NuxtJS application with @nuxt/content module: write in a content/ directory and fetch your Markdown, JSON, YAML and CSV files through a MongoDB like API, acting as a Git-based Headless CMS.'
+title: 気軽にEC『Lea = レア』for マケプレ とは
+description: 'LINE上で気軽にECサイトを構築できるサービス'
+position: 1
+category: 入門
+features:
+  - LINE公式アカウントと連携可能
+  - 購入する際にメールアドレスとパスワードが不要
+  - お客様対応はすべてLINEのチャット画面で可能
 ---
 
-Empower your NuxtJS application with `@nuxtjs/content` module: write in a `content/` directory and fetch your Markdown, JSON, YAML and CSV files through a MongoDB like API, acting as a **Git-based Headless CMS**.
+<img src="/ogp.png" alt="" />
 
-## Writing content
+## 特徴
 
-Learn how to write your `content/`, supporting Markdown, YAML, CSV and JSON: https://content.nuxtjs.org/writing.
+<list :items="features"></list>
 
-## Fetching content
-
-Learn how to fetch your content with `$content`: https://content.nuxtjs.org/fetching.
-
-## Displaying content
-
-Learn how to display your Markdown content with the `<nuxt-content>` component directly in your template: https://content.nuxtjs.org/displaying.
+## 動画

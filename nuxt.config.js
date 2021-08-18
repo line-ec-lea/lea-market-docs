@@ -1,6 +1,12 @@
 import theme from '@nuxt/content-theme-docs'
 
+const themeColor = '#efdca6'
+
 export default theme({
+  docs: {
+    primaryColor: themeColor
+  },
+
   head: {
     meta: [
       { charset: 'utf-8' },
@@ -11,7 +17,7 @@ export default theme({
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }]
   },
 
-  loading: { color: '#efdca6' },
+  loading: { color: themeColor },
   generate: {
     fallback: '404.html', // for Netlify
     routes: ['/'] // give the first url to start crawling
@@ -21,7 +27,7 @@ export default theme({
     locales: () => [{
       code: 'ja',
       iso: 'ja-JP',
-      file: 'ja_JP.js',
+      file: 'ja-JP.js',
       name: '日本語'
     }],
     defaultLocale: 'ja'
