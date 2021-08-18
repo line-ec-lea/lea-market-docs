@@ -3,7 +3,7 @@
   "url": "https://docs.lea-market.com",
   "logo": {
     "light": "/logo_horizon.png",
-    "dark": "/logo_horizon.png"
+    "dark": "/logo_horizon_dark.png"
   },
   "github": "youlib-inc/lea-market-docs"
 }
