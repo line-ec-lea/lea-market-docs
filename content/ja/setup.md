@@ -6,6 +6,10 @@ category: 設定
 features:
 ---
 
+## LINEアカウント連携
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LAq18XJlVYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## アプリ設定
 
 1. 「Lea設定」→「アプリ設定」に移動する。
