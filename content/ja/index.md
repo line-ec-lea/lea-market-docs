@@ -16,7 +16,7 @@ features:
 
 **気軽にEC『Lea = レア』for マケプレ**とは、LINE上で気軽にECサイトを構築できるサービスです。  
 
-<a href="https://lea-ec.com/" target="_blank">公式サイト</a>
+<a href="https://lea-market.com/" target="_blank">公式サイト</a>
 
 ## 特徴
 
