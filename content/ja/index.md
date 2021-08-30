@@ -18,6 +18,11 @@ features:
 
 <a href="https://lea-market.com/" target="_blank">公式サイト</a>
 
+<alert type="warning">
+  <p>当ドキュメントサイトは、GitHubアカウントをお持ちであれば編集することができます。</p>
+  <p>よりよりドキュメントにするため、ご協力いただければ幸いです。</p>
+</alert>
+
 ## 特徴
 
 <list :items="features"></list>

@@ -47,8 +47,11 @@ features:
 
 #### カテゴリー
 - 必須
-- カテゴリーがない場合は作成できないため、最低でも1つカテゴリーを選択してください。  
-  <a href="http://localhost:3000/setup-product#%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA%E3%83%BC%E8%BF%BD%E5%8A%A0">カテゴリー追加</a>
+- <alert type="danger">
+    カテゴリーがない場合は作成できないため、最低でも1つカテゴリーを選択してください。
+    <br />
+    <a href="http://localhost:3000/setup-product#%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA%E3%83%BC%E8%BF%BD%E5%8A%A0">カテゴリー追加</a>
+  </alert>
 
 #### 名前
 - 必須
