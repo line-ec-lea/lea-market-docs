@@ -7,6 +7,8 @@ export default theme({
     primaryColor: accentColor,
   },
 
+  css: ['../../../../static/css/common.css'],
+
   loading: { color: accentColor },
 
   i18n: {

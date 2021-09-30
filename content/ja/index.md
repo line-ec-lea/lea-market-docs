@@ -1,5 +1,5 @@
 ---
-title: 気軽にEC『Lea = レア』for マケプレ
+title: 気軽にEC『Lea = レア』for マケプレ - 公式ドキュメント
 description: '当サイトは、「気軽にEC『Lea = レア』for マケプレ」の公式ドキュメントです。'
 position: 1
 category: 入門
@@ -29,4 +29,6 @@ features:
 
 ## 動画
 
-Coming Soon
+<div class="youtube">
+  <iframe width="100%" height="315" src="https://www.youtube.com/embed/6NRqangHHFo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="max-width: 530px"></iframe>
+</div>
