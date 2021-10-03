@@ -1,4 +1,4 @@
-# 気軽にEC『Lea = レア』for マケプレ - ドキュメント
+# 気軽にEC『Lea = レア』for マケプレ - 公式ドキュメント
 
 ## Build Setup
 
