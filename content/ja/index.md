@@ -30,5 +30,5 @@ features:
 ## 動画
 
 <div class="youtube">
-  <iframe width="100%" height="315" src="https://www.youtube.com/embed/6NRqangHHFo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="max-width: 530px"></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/6NRqangHHFo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
