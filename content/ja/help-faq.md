@@ -6,11 +6,14 @@ category: ヘルプ
 ---
 
 - [連携の手順がわかりません](#連携の手順がわかりません)
+- [領収書発行について](#領収書発行について)
 - [解約（退会）方法について](#解約（退会）方法について)
 
 ## 連携の手順がわかりません
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LAq18XJlVYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="youtube">
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/LAq18XJlVYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 1. LINE公式アカウントを開設する。（開設済みの場合はスキップしてください）
    [https://www.linebiz.com/jp/signup/](https://www.linebiz.com/jp/signup/)
@@ -24,6 +27,16 @@ category: ヘルプ
 4. 連携先のLINE公式アカウントを選択する。
 
 5. 上記を行っていただくと、Leaと連携が完了し、下記URLから管理者画面に入ることができます。
+
+
+## 領収書発行について
+
+<div class="youtube">
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/YZ1hI8JICUY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+領収書発行は、**注文の配達完了処理が行われた後** 、注文詳細ページより確認するとこができます。  
+領収書の名義は、管理者画面の「決済設定」より変更が可能です。
 
 
 ## 解約（退会）方法について
