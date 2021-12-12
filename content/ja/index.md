@@ -1,6 +1,6 @@
 ---
-title: 気軽にEC『Lea = レア』for マケプレ - 公式ドキュメント
-description: '当サイトは、「気軽にEC『Lea = レア』for マケプレ」の公式ドキュメントです。'
+title: 気軽にEC『Lea = レア』- 公式ドキュメント
+description: '当サイトは、「気軽にEC『Lea = レア』」の公式ドキュメントです。'
 position: 1
 category: 入門
 features:
@@ -14,7 +14,7 @@ features:
 
 <img src="/preview.png" alt="" />
 
-**気軽にEC『Lea = レア』for マケプレ**とは、LINE上で気軽にECサイトを構築できるサービスです。  
+**気軽にEC『Lea = レア』**とは、LINE上で気軽にECサイトを構築できるサービスです。  
 
 <a href="https://lea-market.com/" target="_blank">公式サイト</a>
 
