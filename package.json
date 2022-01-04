@@ -1,6 +1,7 @@
 {
   "name": "lea-market-docs",
   "license": "UNLICENSED",
+  "private": true,
   "scripts": {
     "clear": "rm -rf node_modules .nuxt package-lock.json",
     "dev": "nuxt",
