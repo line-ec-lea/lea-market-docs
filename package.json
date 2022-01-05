@@ -8,7 +8,7 @@
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate",
-    "pre-build": "yarn build && yarn generate"
+    "pre-build": "npm run build && npm run generate"
   },
   "dependencies": {
     "@nuxt/content-theme-docs": "^0.9.0",
