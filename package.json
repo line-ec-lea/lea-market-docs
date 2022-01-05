@@ -3,7 +3,7 @@
   "license": "UNLICENSED",
   "private": true,
   "scripts": {
-    "clear": "rm -rf node_modules .nuxt package-lock.json",
+    "clear": "rm -rf node_modules .nuxt yarn.lock",
     "dev": "nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
