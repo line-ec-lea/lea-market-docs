@@ -17,25 +17,7 @@ features:
 
 ## トップページ設定
 
-1. 「設定」→「デザイン設定」→「トップページ設定」に移動する。
-2. ブログを書くようにホームサイトを構築する。
-   <img src="/images/setup-design/setup-design_step2.png" />
-
-### 機能
-カーソルをボードにクリックすると、以下のような「＋」ボタンがでてｋるう。  
-<img src="/images/setup-design/setup-design_step3.png" />
-
-クリックすると以下のような機能が表示され、それぞれをクリックすると使用できる。
-<img src="/images/setup-design/setup-design_step4.png" />
-
-- テキスト
-- Heading
-- リンク
-- 画像
-- リスト
-- Divider
-
-これらを駆使することで、よりよいページにすることができる。
+Coming Soon
 
 ## テーマカラー設定
 
