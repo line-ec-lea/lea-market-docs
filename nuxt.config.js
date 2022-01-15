@@ -1,4 +1,5 @@
 import theme from '@nuxt/content-theme-docs'
+import 'dotenv/config'
 
 const accentColor = '#ff6600'
 
@@ -22,5 +23,10 @@ export default theme({
     vueI18n: {
       fallbackLocale: 'ja'
     },
-  }
+  },
+
+  buildModules: ['@nuxtjs/google-analytics'],
+  googleAnalytics: {
+    id: process.env.GOOGLE_ANALYTICS_DOCS
+  },
 })
