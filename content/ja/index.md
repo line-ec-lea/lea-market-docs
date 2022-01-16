@@ -14,7 +14,7 @@ features:
 
 <img src="/preview.png" alt="" />
 
-**気軽にEC『Lea = レア』**とは、LINE上で気軽にECサイトを構築できるサービスです。  
+**気軽にEC『Lea = レア』** とは、LINE上で気軽にECサイトを構築できるサービスです。  
 
 <a href="https://lea-market.com/" target="_blank">公式サイト</a>
 
