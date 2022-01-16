@@ -49,9 +49,9 @@ category: ヘルプ
 1. [LINE Official Account Manager](https://www.linebiz.com/jp/login/)にアクセスする。
 2. ご契約中のLINE公式アカウトに切り替える。
 3. 設定ページに移動する。
-4. 「拡張機能」ページに移動する。
+4. 「拡張機能」ページに移動する。（以下画像の赤丸部分）
    <img src="/images/help-faq/help-faq_withdrawal_1.png" />
-5. 「連携済みの拡張機能を確認する」
+5. 「連携済みの拡張機能を確認する」ページに移動する。（以下画像の赤丸部分）
    <img src="/images/help-faq/help-faq_withdrawal_2.png" />
 6. 気軽にEC『Lea = レア』の「連携解除」ボタンを押し、連携を解除する。
 7. レアの管理者画面に戻り、「利用を停止する」ボタンを押す。
