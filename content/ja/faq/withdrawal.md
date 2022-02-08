@@ -1,7 +1,7 @@
 ---
 title: 解約（退会）方法について
 description: 'レアの退会方法'
-position: 3
+position: 5
 category: よくある質問
 ---
 

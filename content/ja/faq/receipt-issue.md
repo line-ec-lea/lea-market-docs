@@ -1,7 +1,7 @@
 ---
 title: 領収書発行について
 description: 'レアで商品を購入後の領収書発行方法'
-position: 2
+position: 4
 category: よくある質問
 ---
 
