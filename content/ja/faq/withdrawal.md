@@ -12,14 +12,13 @@ category: よくある質問
 
 1. [LINE Official Account Manager](https://www.linebiz.com/jp/login/)にアクセスする。
 2. ご契約中のLINE公式アカウトに切り替える。
-3. 設定ページに移動する。
-4. 「拡張機能」ページに移動する。（以下画像の赤丸部分）
+3. 「拡張機能」ページに移動する。（以下画像の赤丸部分）
    <img src="/images/help-faq/help-faq_withdrawal_1.png" />
-5. 「連携済みの拡張機能を確認する」ページに移動する。（以下画像の赤丸部分）
-   <img src="/images/help-faq/help-faq_withdrawal_2.png" />
-6. 気軽にEC『Lea = レア』の「連携解除」ボタンを押し、連携を解除する。
-7. レアの<a href="https://admin.lea-market.com/init" target="_blank">管理者画面</a>に戻り、「利用を停止する」ボタンを押す。
-    <alert type="warning">手順7の処理をしなければ引き落としは継続されますのでご注意ください。</alert>
+4. 「拡張機能設定」ページに移動する。（以下画像の赤丸部分）
+   <img src="/images/help-faq/help-faq_withdrawal_4.png" />
+5. 気軽にEC『Lea = レア』の「連携解除」ボタンを押し、連携を解除する。
+6. レアの<a href="https://admin.lea-market.com/init" target="_blank">管理者画面</a>に戻り、「利用を停止する」ボタンを押す。
+    <alert type="warning">手順6の処理をしなければ引き落としは継続されますのでご注意ください。</alert>
    <img src="/images/help-faq/help-faq_withdrawal_3.png" />
 
 <alert type="danger">
